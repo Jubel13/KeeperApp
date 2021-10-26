@@ -1,4 +1,9 @@
-# KeeperApp
+# Project Description
+
+## KeeperApp
+
 Created with CodeSandbox </br>
-Keeper App project from udemy course:The complete 2021 web development bootcamp<br>
-YOu can view this app on this link : https://lvfh2.csb.app/
+
+This is simple clone of Keep App (google keep) project from udemy course: <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a> by Angela Yu
+
+You can view this app on this link : https://lvfh2.csb.app/
